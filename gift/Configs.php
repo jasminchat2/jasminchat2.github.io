@@ -19,4 +19,4 @@ if($health['status'] !== 200) {
 }
 
 // Website root url
-$GLOBALS['WEBSITE_PATH'] = 'http://jasminchat2.github.io/';
+$GLOBALS['WEBSITE_PATH'] = 'http://jasminchat2.github.io/gift/';
